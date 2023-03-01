@@ -214,7 +214,7 @@ SQL定义的视图 | 模式与应用之间 | 多个 | 同一数据外模式中�
 
 **差运算**： $-$   R1和R2相容
 
-**交运算**：$\bigcap$ &#x2003;  $R\bigcap S=R-(R-S)$ 
+**交运算**： $\bigcap$ &#x2003;  $R\bigcap S=R-(R-S)$ 
 
 **笛卡尔积**： $R\times S$ .
 
@@ -238,7 +238,7 @@ SQL定义的视图 | 模式与应用之间 | 多个 | 同一数据外模式中�
 
 ![Untitled](%E6%95%B0%E6%8D%AE%E5%BA%93%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%20da731fd219144922bef22ea832bf7d3c/Untitled%208.png)
 
-**重命名运算 $\rho_{R}(S)$** 
+**重命名运算 $\rho_{R}(S)$ ** 
 
 **除法运算**
 
@@ -248,7 +248,7 @@ SQL定义的视图 | 模式与应用之间 | 多个 | 同一数据外模式中�
 
  用选择、投影、笛卡尔积和差表示除法
 
-$ R\div S=\Pi_X(R)-\Pi_X(\Pi_X(R)\times\Pi_Y(S)-\Pi_X(R)) $
+$R\div S=\Pi_X(R)-\Pi_X(\Pi_X(R)\times\Pi_Y(S)-\Pi_X(R))$ 
 
 
 # 第三章 数据库设计过程和方法
@@ -361,7 +361,7 @@ $ R\div S=\Pi_X(R)-\Pi_X(\Pi_X(R)\times\Pi_Y(S)-\Pi_X(R)) $
 
 **函数依赖分类**
 
-- 平凡函数依赖：$ Y\subseteq X $ ，Y函数依赖于X。函数依赖一般都指 **非平凡** 函数依赖
+- 平凡函数依赖： $Y\subseteq X$ ，Y函数依赖于X。函数依赖一般都指 **非平凡** 函数依赖
 - 部分函数依赖与完全函数依赖
     
     ![Untitled](%E6%95%B0%E6%8D%AE%E5%BA%93%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%20da731fd219144922bef22ea832bf7d3c/Untitled%2012.png)
@@ -384,21 +384,15 @@ $ R\div S=\Pi_X(R)-\Pi_X(\Pi_X(R)\times\Pi_Y(S)-\Pi_X(R)) $
 
 - 自反性（Reflexivity）
     
-    $
-    Y \subseteq X \subseteq U, 则X \rightarrow Y成立
-    $
+    $Y\subseteq X\subseteq U, 则X\rightarrow Y成立$ 
     
 - 增广性（Augmentation）
     
-    $
-    X \rightarrow Y成立，且Z \subseteq U,则XZ \rightarrow YZ
-    $
+    $X\rightarrow Y成立，且Z\subseteq U,则XZ\rightarrow YZ$ 
     
 - 传递性（Transitivity）
     
-    $
-    X\rightarrow Y,Y \rightarrow Z成立，则X \rightarrow Z成立
-    $
+    $X\rightarrow Y,Y\rightarrow Z成立，则X\rightarrow Z成立$ 
     
 
 **属性集闭包**
