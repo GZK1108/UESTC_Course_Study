@@ -32,6 +32,11 @@
 
 ![Untitled](%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA%E4%B8%8E%E6%9C%BA%E6%9E%84%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%204b2535666fa74ebb85ab9e18dedfccf4/Untitled%201.png)
 
+---
+PS: 期末考试全部内容直接来自知识点，全背可以拿到极高的分数
+
+---
+
 # 1、导论
 
 <aside>
