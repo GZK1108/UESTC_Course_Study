@@ -685,10 +685,12 @@ $$
 ### 3.3.3 A Generalized Version of PPP（广义PPP）
 
 将物品区分为可交易（traded）与不可交易（no-traded）
+
 $$
-goods \begin{cases}traded:E=\frac{P_T}{P^*_T}\\no-traded:E=\frac{P_N}{P^*_N} \end{cases}
+goods \begin {cases} traded:E= \frac{P_T}{P^*_T} \\ no-traded:E= \frac{P_N}{P^*_N} \end {cases} 
 $$
-综合物价指数：本国不可贸易品比例$\alpha$，国外不可贸易品比例$\beta$
+
+综合物价指数：本国不可贸易品比例 $\alpha$ ，国外不可贸易品比例 $\beta$ 
 
 ![Untitled](%E5%9B%BD%E9%99%85%E9%87%91%E8%9E%8D%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%201805326e009d4b3d91af02229bf13565/Untitled%2032.png)
 
