@@ -15,3 +15,4 @@
 - [金融衍生工具-2022秋](https://github.com/GZK1108/UESTC_Course_Study/tree/main/%E9%87%91%E8%9E%8D%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7-2022%E7%A7%8B)：不要在github打开md文件，公式太多，会导致github网页卡死
 - [固定收益证券-2023春](https://github.com/GZK1108/UESTC_Course_Study/tree/main/%E5%9B%BA%E5%AE%9A%E6%94%B6%E7%9B%8A%E8%AF%81%E5%88%B8-2023%E6%98%A5)
 - [经济学原理-曼昆](https://github.com/GZK1108/UESTC_Course_Study/tree/main/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%9F%E7%90%86-%E6%9B%BC%E6%98%86)：除蒙代尔-费莱明模型，其他对应经济学Ⅰ和经济学Ⅱ课程内容
+- [证券投资学-2023春](https://github.com/GZK1108/UESTC_Course_Study/tree/main/%E8%AF%81%E5%88%B8%E6%8A%95%E8%B5%84%E5%AD%A6-2023%E6%98%A5)：每年差异较大，供参考
